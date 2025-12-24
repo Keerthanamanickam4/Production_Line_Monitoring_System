@@ -1,0 +1,24 @@
+# MPLAB / PIC build files
+
+*.obj
+*.lst
+*.map
+*.cof
+*.sym
+*.as
+*.rlf
+*.sdb
+*.p1
+*.pre
+*.mcp
+*.mcw
+*.mcs
+*.hxl
+
+# Build folders (if any)
+build/
+dist/
+Debug/
+Release/
+
+

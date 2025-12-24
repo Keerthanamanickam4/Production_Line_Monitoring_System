@@ -1,0 +1,16 @@
+___awdiv: CODE, 1187 0 121
+_send_char_uart: CODE, 367 0 12
+_send_sms_with_time: CODE, 1504 0 219
+_dat: CODE, 1069 0 118
+_int_to_str: CODE, 1308 0 196
+_show_number: CODE, 835 0 116
+_main: CODE, 1723 0 325
+_uart_init: CODE, 396 0 18
+___lwdiv: CODE, 650 0 80
+_show: CODE, 467 0 33
+_send_sms: CODE, 730 0 105
+_send_string_uart: CODE, 540 0 42
+___lwmod: CODE, 582 0 68
+_cmd: CODE, 951 0 118
+_lcd_init: CODE, 500 0 40
+Total: 1611
